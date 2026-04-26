@@ -10,7 +10,10 @@
 main:
     
   - title: "CV"
-    url: /cv/
+    url: /cv-json/
     
   # - title: "CV"
   #   url: /cv-json/
+
+  - title: "Resume"
+    url: /files/resume.pdf
